@@ -34,4 +34,3 @@
 
 
 <img src="airbnbMock/assets/images/airbnb_main_screen.png" alt="AIbudget Main Screen" width="280">
-
