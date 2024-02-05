@@ -33,5 +33,5 @@
 이 앱은 교육 목적으로만 만들어진 개인 프로젝트이며 상업적 사용을 위한 것이 아닙니다. 내용, 이미지 및 데이터는 공식 에어비앤비 애플리케이션이나 회사와는 관련이 없습니다.
 
 
-<img src="assets/images/airbnb_main_screen.png" width="280">
+<img src="assets/images/airbnb_main_screen.png" alt="AIbudget Main Screen" width="280">
 
